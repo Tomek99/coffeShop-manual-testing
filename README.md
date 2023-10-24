@@ -1,0 +1,1 @@
+# coffeShop-manual-tests
